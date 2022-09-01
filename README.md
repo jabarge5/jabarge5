@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joy
-- 👀 I’m interested in finding my nuch within the tech industry.
+- 👀 I’m interested in finding my niche within tech.
 - 🌱 I’m currently learning ...HTML, CSS and Javascript
 - 💞️ I’m looking to learn and connect with those established in coding and those new to learning like myself.
 - 📫 How to reach me jabarge5@gmail.com
