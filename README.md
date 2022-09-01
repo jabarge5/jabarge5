@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joy
-- 👀 I’m interested in learning HTML
-- 🌱 I’m currently learning ...HTML and CSS
+- 👀 I’m interested in learning HTML, CSS and Javascript
+- 🌱 I’m currently learning ...HTML, CSS and Javascript
 - 💞️ I’m looking to learn and connect with those established in coding and those new to learning like myself.
 - 📫 How to reach me jabarge5@gmail.com
 
